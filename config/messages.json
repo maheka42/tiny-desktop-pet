@@ -1,0 +1,43 @@
+{
+  "greeting": [
+    "Hi, checking in.",
+    "Hey. How are you doing?",
+    "Still doing okay?",
+    "Hi. I am keeping you company."
+  ],
+  "water": [
+    "Water check.",
+    "Want some water?",
+    "Quick water break?"
+  ],
+  "stretch": [
+    "Quick stretch?",
+    "Uncurl those shoulders for me.",
+    "Tiny stretch break?"
+  ],
+  "break": [
+    "Need a break?",
+    "You have been going for a while. Rest a minute.",
+    "Pause with me for a bit."
+  ],
+  "mood": [
+    "How is your mood?",
+    "Still doing okay?",
+    "How are you holding up?"
+  ],
+  "motivation": [
+    "One small step at a time.",
+    "Keep going. You do not need to rush it.",
+    "Stuck is okay. Try the next tiny step.",
+    "You have got this. Just focus on the next thing."
+  ],
+  "longSession": [
+    "You have been working for 2+ hours. Please stop, rest, and drink some water.",
+    "That is a long session. Rest your eyes and get some water before you continue."
+  ],
+  "celebration": [
+    "Nice! Task done.",
+    "That one is off the list. Tiny victory!",
+    "Done! I am proud of you."
+  ]
+}
