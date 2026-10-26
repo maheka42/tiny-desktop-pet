@@ -1,3 +1,23 @@
+# Dependencies
 node_modules/
+dashboard-source/node_modules/
+
+# Build output and tests
+dist/
+build/
+release/
+out/
+coverage/
+
+# Logs and operating-system files
 *.log
 .DS_Store
+Thumbs.db
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
